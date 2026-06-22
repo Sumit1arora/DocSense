@@ -19,7 +19,7 @@ services:
       MONGO_INITDB_ROOT_PASSWORD: docsense123
       MONGO_INITDB_DATABASE: docsense
     ports:
-      - "27017:27017"
+      - "27016:27016"
     volumes:
       - mongo_data:/data/db
 
