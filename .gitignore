@@ -18,7 +18,7 @@ target/
 *.iws
 *.iml
 *.ipr
-*.env
+*.env*
 
 ### NetBeans ###
 /nbproject/private/
@@ -32,3 +32,7 @@ build/
 
 ### VS Code ###
 .vscode/
+/test.pdf
+/src/main/resources/db/w
+/DocSense.md
+/docs/superpowers/plans/2026-06-22-docsense-implementation.md
